@@ -1,0 +1,5 @@
+sudo gedit /etc/default/grub
+
+modefy the seqence of GRUB_DEFAULT
+
+sudo update-grub
