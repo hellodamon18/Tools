@@ -20,3 +20,5 @@ $ sudo apt-get install  update-manager-core
 
 $ sudo apt-get remove
 --------------------- 
+
+---------
